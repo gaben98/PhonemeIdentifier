@@ -1,0 +1,13 @@
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\netcoreapp3.1\PhonemeIdentifier.exe
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\netcoreapp3.1\PhonemeIdentifier.deps.json
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\netcoreapp3.1\PhonemeIdentifier.runtimeconfig.json
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\netcoreapp3.1\PhonemeIdentifier.runtimeconfig.dev.json
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\netcoreapp3.1\PhonemeIdentifier.dll
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\netcoreapp3.1\PhonemeIdentifier.pdb
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\netcoreapp3.1\PhonemeIdentifier.csprojAssemblyReference.cache
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\netcoreapp3.1\PhonemeIdentifier.AssemblyInfoInputs.cache
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\netcoreapp3.1\PhonemeIdentifier.AssemblyInfo.cs
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\netcoreapp3.1\PhonemeIdentifier.csproj.CoreCompileInputs.cache
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\netcoreapp3.1\PhonemeIdentifier.dll
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\netcoreapp3.1\PhonemeIdentifier.pdb
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\netcoreapp3.1\PhonemeIdentifier.genruntimeconfig.cache

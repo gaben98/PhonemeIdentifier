@@ -1,0 +1,9 @@
+D:\projects\PhonemeIdentifier\output\darwin_x64\PhonemeIdentifier.pdb
+D:\projects\PhonemeIdentifier\output\darwin_x64\libSystem.IO.Compression.Native.dylib
+D:\projects\PhonemeIdentifier\output\darwin_x64\libSystem.Native.dylib
+D:\projects\PhonemeIdentifier\output\darwin_x64\libSystem.Net.Security.Native.dylib
+D:\projects\PhonemeIdentifier\output\darwin_x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\projects\PhonemeIdentifier\output\darwin_x64\libSystem.Security.Cryptography.Native.OpenSsl.dylib
+D:\projects\PhonemeIdentifier\output\darwin_x64\libclrjit.dylib
+D:\projects\PhonemeIdentifier\output\darwin_x64\libcoreclr.dylib
+D:\projects\PhonemeIdentifier\output\darwin_x64\PhonemeIdentifier

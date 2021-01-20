@@ -1,0 +1,16 @@
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\PhonemeIdentifier.csprojAssemblyReference.cache
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\PhonemeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\PhonemeIdentifier.AssemblyInfoInputs.cache
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\PhonemeIdentifier.AssemblyInfo.cs
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\PhonemeIdentifier.csproj.CoreCompileInputs.cache
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\net5.0\PhonemeIdentifier.exe
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\net5.0\PhonemeIdentifier.deps.json
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\net5.0\PhonemeIdentifier.runtimeconfig.json
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\net5.0\PhonemeIdentifier.runtimeconfig.dev.json
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\net5.0\PhonemeIdentifier.dll
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\net5.0\ref\PhonemeIdentifier.dll
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\bin\Debug\net5.0\PhonemeIdentifier.pdb
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\PhonemeIdentifier.dll
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\ref\PhonemeIdentifier.dll
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\PhonemeIdentifier.pdb
+D:\projects\PhonemeIdentifier\PhonemeIdentifier\obj\Debug\net5.0\PhonemeIdentifier.genruntimeconfig.cache
